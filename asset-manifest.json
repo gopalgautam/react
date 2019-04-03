@@ -1,13 +1,13 @@
 {
-  "main.css": "/react/signup-signin-ui2/static/css/main.889c0adc.chunk.css",
-  "main.js": "/react/signup-signin-ui2/static/js/main.bc451112.chunk.js",
-  "main.js.map": "/react/signup-signin-ui2/static/js/main.bc451112.chunk.js.map",
-  "runtime~main.js": "/react/signup-signin-ui2/static/js/runtime~main.82bf4499.js",
-  "runtime~main.js.map": "/react/signup-signin-ui2/static/js/runtime~main.82bf4499.js.map",
-  "static/js/2.e2fc4103.chunk.js": "/react/signup-signin-ui2/static/js/2.e2fc4103.chunk.js",
-  "static/js/2.e2fc4103.chunk.js.map": "/react/signup-signin-ui2/static/js/2.e2fc4103.chunk.js.map",
-  "index.html": "/react/signup-signin-ui2/index.html",
-  "precache-manifest.4afdabd323f9cf7b535623b0f0face47.js": "/react/signup-signin-ui2/precache-manifest.4afdabd323f9cf7b535623b0f0face47.js",
-  "service-worker.js": "/react/signup-signin-ui2/service-worker.js",
-  "static/css/main.889c0adc.chunk.css.map": "/react/signup-signin-ui2/static/css/main.889c0adc.chunk.css.map"
+  "main.css": "/react/static/css/main.889c0adc.chunk.css",
+  "main.js": "/react/static/js/main.0f353cfb.chunk.js",
+  "main.js.map": "/react/static/js/main.0f353cfb.chunk.js.map",
+  "runtime~main.js": "/react/static/js/runtime~main.bb50a20d.js",
+  "runtime~main.js.map": "/react/static/js/runtime~main.bb50a20d.js.map",
+  "static/js/2.e2fc4103.chunk.js": "/react/static/js/2.e2fc4103.chunk.js",
+  "static/js/2.e2fc4103.chunk.js.map": "/react/static/js/2.e2fc4103.chunk.js.map",
+  "index.html": "/react/index.html",
+  "precache-manifest.545431a7a5d52e0158ee5dc12ec589db.js": "/react/precache-manifest.545431a7a5d52e0158ee5dc12ec589db.js",
+  "service-worker.js": "/react/service-worker.js",
+  "static/css/main.889c0adc.chunk.css.map": "/react/static/css/main.889c0adc.chunk.css.map"
 }
